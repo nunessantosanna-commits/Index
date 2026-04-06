@@ -1,0 +1,31 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.grupo{
+    display:flex;
+    flex-direction: column;
+}
+
+.cabecalho {
+    background-color:#12ddaa;
+    color: #fff;
+    padding: 10px;
+    display: flex;
+    align-items: center;
+}
+
+.navegacao {
+    background-color: rgb(189, 126, 160);
+    display:inline-block;
+    width: 30%;
+    padding:10px;
+}
+
+.secao {
+    background-color: rgb(128, 190, 170);
+}
+.rodape {
+    background-color: rgb(82, 228, 228);
+}
