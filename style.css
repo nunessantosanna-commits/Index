@@ -15,7 +15,10 @@
     display: flex;
     align-items: center;
 }
-
+.conteudo {
+    display: flex;
+    height: 200px;
+}
 .navegacao {
     background-color: rgb(189, 126, 160);
     display:inline-block;
