@@ -1,4 +1,4 @@
-* {
+ * {
     margin: 0;
     padding: 0;
 }
@@ -18,13 +18,13 @@
 }
 
 .menu a {
-    color: rgb(184, 102, 102);
+    color: rgb(226, 226, 226);
     text-decoration: nome;
     margin-left: 15px;
 }
 
 .menu a:hover {
-    color: rgb(83, 57, 57);
+    color: rgb(128, 126, 126);
 }
 
 .conteudo {
